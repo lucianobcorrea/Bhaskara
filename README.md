@@ -5,5 +5,5 @@ Simple project that return "negative delta" if the delta value is negative, othe
 delta = b**2-4*a*c
 
 # Square roots formula
-!(-b+sqrt(delta))/(2*a)
+!(-b+sqrt(delta))/(2*a)<br/>
 !(-b-sqrt(delta))/(2*a)
